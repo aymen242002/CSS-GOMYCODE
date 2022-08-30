@@ -1,6 +1,6 @@
 @font-face {
-    font-family: roboto-italic;
-    src: url(@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap'););
+    font-family: roboto italic;
+    src: url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap');
 }
 h1{
     padding: 0;
@@ -19,7 +19,6 @@ a1{
     font-weight: bold;
 }
 a{
-    float: right;
     margin-right: 20PX;
     display: inline-block;
     line-height: 80px;
@@ -42,4 +41,7 @@ padding: 3px;
 background-color: DarkSalmon;
 border-radius: 30PX;
 color: white;
+}
+section{
+    color:black;
 }
